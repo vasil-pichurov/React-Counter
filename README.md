@@ -20,13 +20,6 @@ This project demonstrates basic state management, component structure, and moder
 
 ---
 
-## 🌐 Live Demo
-
-👉 **Live Demo:** https://vasil-pichurov.github.io/React-Counter/  
-_(If not deployed yet, follow the deployment section below)_
-
----
-
 ## ✨ Features
 
 - ➕ Increment the counter

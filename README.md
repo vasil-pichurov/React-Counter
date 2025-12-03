@@ -27,26 +27,7 @@ This project demonstrates basic state management, component structure, and moder
 - ⚡ Instant hot reload  
 - 🧩 Clean and simple UI
 
----
 
-## 📸 Screenshot (Optional)
-
-Add a screenshot of your app here:
-React-Counter/
-│
-├── public/
-│ └── vite.svg
-│
-├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── index.css
-│ └── ...
-│
-├── package.json
-├── vite.config.js
-├── README.md
-└── .gitignore
 
 ---
 
